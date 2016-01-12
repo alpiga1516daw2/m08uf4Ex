@@ -1,0 +1,5 @@
+1- Versió 0.1 del programa ascii
+2- Autor: dc1415daw2
+3- Per compilar el programa, executa:
+	gcc ascii.c -o ascii
+
