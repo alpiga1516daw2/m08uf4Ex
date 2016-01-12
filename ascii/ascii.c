@@ -10,6 +10,7 @@ int main() {
 	for (i=0;i<=n;i++) {
 		c='A'+i;
 		printf("%c    %x   %d\n",c,c,c);
+		printf("%c    %x   %d\n",c+32,c+32,c+32);
 	}
 	return(0);
 }
